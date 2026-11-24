@@ -1,11 +1,10 @@
-<img width="100%" src="./banner.png" />
 # Hey, I'm Shristi Shukla! 👋
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shristi%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Development%20%7C%20Innovation&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=200&section=header&text=Shristi%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20Development%20%7C%20Innovation&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Enthusiast;Building+Technology+That+Matters;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Enthusiast;Building+Ideas+Into+Real+Projects;Learn+%7C+Build+%7C+Innovate" />
 
 </div>
 
@@ -13,19 +12,19 @@
 
 ## 💫 About Me
 
-🚀 Aspiring AI/ML Engineer & Full-Stack Developer | **Shristi Shukla** | IGDTUW CSE '28
+🚀 **Aspiring AI/ML Engineer & Full-Stack Developer** | IGDTUW CSE '28
 
-🎓 B.Tech Computer Science Engineering at Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi.
+🎓 B.Tech Computer Science Engineering at Indira Gandhi Delhi Technical University for Women, Delhi.
 
 💻 React Development Intern @ Kamadgiri Software Solutions | Star Performer of React Batch.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development and solving real-world problems.
+🤖 Passionate about Artificial Intelligence, Machine Learning, and building impactful software solutions.
 
-🏆 Hackathon enthusiast | Open-source contributor | Tech Team Member, SOCH Club.
+🏆 Hackathon enthusiast | Open-source contributor | SOCH Club Tech Team.
 
-🌱 Currently working on strengthening my DSA, software development and AI/ML skills.
+🌱 Currently strengthening my DSA, problem-solving, and full-stack development skills.
 
-📍 Delhi, India | Open to internships, learning opportunities and collaborations!
+📍 Delhi, India | Open to internships, collaborations, and exciting opportunities!
 
 ---
 
@@ -37,20 +36,80 @@
 
 ## 🌟 Featured Projects
 
-### 🎓 [EduBridge](https://github.com/Shristi6392/EduBridge)
-A full-stack learning platform featuring interactive learning resources, quizzes and AI-driven guidance for students.
+<table>
+<tr>
+<td width="50%">
 
-### 💻 [Echo-Sync](https://github.com/Shristi6392/Echo-Sync)
-A JavaScript-based development project.
+### 🎓 EduBridge
 
-### 🍔 [Food Ordering System](https://github.com/Shristi6392/Food-Ordering-System)
+A full-stack learning platform providing interactive learning resources, quizzes, and AI-driven guidance for students.
+
+**Tech:** Python, Flask, HTML, CSS, JavaScript
+
+[View Repository](https://github.com/Shristi6392/EduBridge)
+
+</td>
+<td width="50%">
+
+### 💻 Echo-Sync
+
+A JavaScript-based software development project.
+
+**Tech:** JavaScript
+
+[View Repository](https://github.com/Shristi6392/Echo-Sync)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍔 Food Ordering System
+
 A Python-based food ordering application.
 
-### 📊 [Speed Test Dashboard](https://github.com/Shristi6392/Speed-Test-Dashboard)
-A Python-based dashboard project.
+**Tech:** Python
 
-### 🔐 [SecureLAN Chat](https://github.com/Shristi6392/SecureLAN-Chat)
-A Python-based communication and networking project.
+[View Repository](https://github.com/Shristi6392/Food-Ordering-System)
+
+</td>
+<td width="50%">
+
+### 📊 Speed Test Dashboard
+
+A dashboard project built using Python.
+
+**Tech:** Python
+
+[View Repository](https://github.com/Shristi6392/Speed-Test-Dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 SecureLAN Chat
+
+A networking and communication project.
+
+**Tech:** Python
+
+[View Repository](https://github.com/Shristi6392/SecureLAN-Chat)
+
+</td>
+<td width="50%">
+
+### 🌍 Travel Plans
+
+Contributed to a travel-planning application repository.
+
+**Tech:** React, Redux, Node.js, MongoDB
+
+[View Repository](https://github.com/Shristi6392/Travel-Plans-)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,7 +121,7 @@ A Python-based communication and networking project.
 
 🚀 **Smart India Hackathon** – Qualified through internal university screening.
 
-⭐ **React Internship – Kamadgiri Software Solutions** – Recognized as Star Performer of the React batch.
+⭐ **React Development Internship** – Star Performer at Kamadgiri Software Solutions.
 
 💡 **Girlscript Summer of Code** – Open-source contributor.
 
@@ -76,33 +135,39 @@ A Python-based communication and networking project.
 
 <div align="center">
 
-### Programming Languages
+### 👩‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,ts" />
 
-### Frontend & Development
+### 🎨 Frontend & Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,nodejs" />
 
-### AI / ML & Data Science
+### 🤖 AI / ML & Data Science
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### Database & Developer Tools
+### 🗄️ Databases & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
+### 🛠️ Other Tools
+
+<img src="https://skillicons.dev/icons?i=figma,anaconda,gcp" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shristi6392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shristi6392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shristi6392&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi6392&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -110,7 +175,7 @@ A Python-based communication and networking project.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -130,14 +195,13 @@ A Python-based communication and networking project.
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Shristi6392">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/shristi-shukla-a219432b9">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -150,8 +214,8 @@ A Python-based communication and networking project.
 
 ### 💫 "Consistency turns small steps into extraordinary journeys."
 
-**Thanks for visiting my profile! Let's connect, collaborate and create something meaningful.**
+*Thanks for visiting my profile! Let's connect, collaborate and build something meaningful.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=100&section=footer"/>
 
 </div>
